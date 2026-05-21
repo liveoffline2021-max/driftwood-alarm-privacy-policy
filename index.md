@@ -1,8 +1,6 @@
 # Privacy Policy – Driftwood Alarm Clock
 
-**Effective Date:** March 26, 2026
-
-Your privacy is important. Driftwood Alarm Clock is designed **not to collect or store personal information**.
+**Effective Date:** May 21, 2026
 
 ## US State Privacy Rights
 
@@ -56,16 +54,19 @@ This file contains the Privacy Policy in multiple languages. Click a language be
 
 **Privacy Policy – Driftwood Alarm Clock**  
 
-**Effective date:** November 24, 2025  
-
-Your privacy is important to us. Driftwood Alarm Clock is designed to **not collect or store any personal information**.
-
 **Data Collection**  
 While we do not collect your personal data, this app uses **Google AdMob** to display ads. AdMob may collect information such as:  
 - Device identifiers (e.g., advertising ID)  
 - Usage data (e.g., app interactions, session duration)  
 
 This information is used to provide personalized ads and improve ad performance. We do not have access to personal details or share them ourselves.
+
+**Location Data**
+Driftwood Alarm Clock can optionally access your device’s approximate location to provide local weather information.
+
+If you grant permission, the app may store your selected city and related location coordinates locally on your device to improve your experience and display weather updates.
+
+Location access is completely optional, and users may manually enter a city instead. We do not sell your location data.
 
 **How Your Data is Used**  
 Data collected by AdMob may be used to:  
@@ -100,16 +101,19 @@ If you have questions or concerns about this Privacy Policy, contact us:
 
 **سياسة الخصوصية – Driftwood Alarm Clock**  
 
-**تاريخ السريان:** 26 مارس 2026  
-
-خصوصيتك مهمة بالنسبة لنا. تم تصميم تطبيق Driftwood Alarm Clock **لعدم جمع أو تخزين أي معلومات شخصية**.
-
 **جمع البيانات**  
 بينما لا نجمع بياناتك الشخصية، يستخدم هذا التطبيق **Google AdMob** لعرض الإعلانات. قد يقوم AdMob بجمع معلومات مثل:  
 - معرفات الجهاز (مثل معرف الإعلان)  
 - بيانات الاستخدام (مثل تفاعل التطبيق، مدة الجلسة)  
 
 تُستخدم هذه المعلومات لتقديم إعلانات مخصصة وتحسين أداء الإعلانات. نحن لا نصل إلى التفاصيل الشخصية أو نشاركها بأنفسنا.
+
+**بيانات الموقع**
+يمكن لتطبيق Driftwood Alarm Clock الوصول اختياريًا إلى الموقع التقريبي لجهازك لتوفير معلومات الطقس المحلية.
+
+إذا منحت الإذن، فقد يقوم التطبيق بتخزين المدينة التي اخترتها وإحداثيات الموقع المرتبطة بها محليًا على جهازك لتحسين تجربتك وعرض تحديثات الطقس.
+
+يُعد الوصول إلى الموقع اختياريًا بالكامل، ويمكن للمستخدمين إدخال اسم المدينة يدويًا بدلاً من ذلك. نحن لا نبيع بيانات موقعك.
 
 **كيفية استخدام بياناتك**  
 قد تُستخدم البيانات التي يجمعها AdMob لـ:  
@@ -145,16 +149,19 @@ If you have questions or concerns about this Privacy Policy, contact us:
 
 **Политика за поверителност – Driftwood Alarm Clock**  
 
-**Дата на влизане в сила:** 26 март 2026 г.  
-
-Вашата поверителност е важна за нас. Driftwood Alarm Clock е създадено така, че **да не събира и да не съхранява никаква лична информация**.
-
 ### Събиране на данни
 Въпреки че не събираме вашите лични данни, това приложение използва **Google AdMob**, за да показва реклами. AdMob може да събира информация като:  
 - Идентификатори на устройството (напр. рекламен идентификатор)  
 - Данни за използване (напр. взаимодействия с приложението, продължителност на сесията)  
 
 Тази информация се използва за предоставяне на персонализирани реклами и за подобряване на ефективността на рекламите. Ние нямаме достъп до лични данни и не ги споделяме.
+
+### Данни за местоположението
+Driftwood Alarm Clock може по желание да получава достъп до приблизителното местоположение на вашето устройство, за да предоставя местна информация за времето.
+
+Ако дадете разрешение, приложението може да съхранява избрания от вас град и свързаните координати на местоположението локално на вашето устройство, за да подобри работата с приложението и да показва актуализации за времето.
+
+Достъпът до местоположението е напълно по желание и потребителите могат вместо това ръчно да въведат град. Ние не продаваме данните за вашето местоположение.
 
 ### Как се използват вашите данни
 Данните, събрани от AdMob, могат да бъдат използвани за:  
@@ -188,16 +195,19 @@ Driftwood Alarm Clock не е предназначено за деца под 13
 
 **গোপনীয়তা নীতি – Driftwood Alarm Clock**  
 
-**প্রযোজ্য তারিখ:** ২৬ মার্চ, ২০২৬  
-
-আপনার গোপনীয়তা আমাদের জন্য গুরুত্বপূর্ণ। Driftwood Alarm Clock **কোনো ব্যক্তিগত তথ্য সংগ্রহ বা সংরক্ষণ করে না**।
-
 **ডেটা সংগ্রহ**  
 যদিও আমরা আপনার ব্যক্তিগত ডেটা সংগ্রহ করি না, এই অ্যাপটি **Google AdMob** ব্যবহার করে বিজ্ঞাপন প্রদর্শনের জন্য। AdMob নিম্নলিখিত তথ্য সংগ্রহ করতে পারে:  
 - ডিভাইস শনাক্তকারী (যেমন বিজ্ঞাপন আইডি)  
 - ব্যবহার সংক্রান্ত তথ্য (যেমন অ্যাপ ইন্টারঅ্যাকশন, সেশন সময়কাল)  
 
 এই তথ্য ব্যবহার করা হয় ব্যক্তিগতকৃত বিজ্ঞাপন দেখানোর এবং বিজ্ঞাপনের কার্যকারিতা উন্নত করার জন্য। আমরা ব্যক্তিগত তথ্য অ্যাক্সেস করি না বা ভাগ করি না।
+
+**অবস্থান সংক্রান্ত তথ্য**
+Driftwood Alarm Clock স্থানীয় আবহাওয়ার তথ্য প্রদানের জন্য ঐচ্ছিকভাবে আপনার ডিভাইসের আনুমানিক অবস্থানে অ্যাক্সেস করতে পারে।
+
+আপনি অনুমতি দিলে, অ্যাপটি আপনার নির্বাচিত শহর এবং সংশ্লিষ্ট অবস্থান স্থানাঙ্ক আপনার ডিভাইসে স্থানীয়ভাবে সংরক্ষণ করতে পারে, যাতে আপনার অভিজ্ঞতা উন্নত হয় এবং আবহাওয়ার আপডেট প্রদর্শন করা যায়।
+
+অবস্থানে অ্যাক্সেস সম্পূর্ণরূপে ঐচ্ছিক, এবং ব্যবহারকারীরা চাইলে এর পরিবর্তে ম্যানুয়ালি একটি শহরের নাম লিখতে পারেন। আমরা আপনার অবস্থান সংক্রান্ত তথ্য বিক্রি করি না।
 
 **আপনার ডেটা কীভাবে ব্যবহার করা হয়**  
 AdMob দ্বারা সংগ্রহিত ডেটা ব্যবহার করা হতে পারে:  
@@ -232,16 +242,19 @@ Driftwood Alarm Clock 13 বছরের কম বয়সী শিশুদ�
 
 **Privatlivspolitik – Driftwood Alarm Clock**  
 
-**Ikrafttrædelsesdato:** 26. marts 2026 
-
-Dit privatliv er vigtigt for os. Driftwood Alarm Clock er designet til **ikke at indsamle eller gemme personlige oplysninger**.
-
 ### Dataindsamling
 Selvom vi ikke indsamler dine personlige oplysninger, bruger denne app **Google AdMob** til at vise annoncer. AdMob kan indsamle oplysninger såsom:  
 - Enhedsidentifikatorer (f.eks. annonce-ID)  
 - Brugsdata (f.eks. app-interaktioner, sessionsvarighed)  
 
 Disse oplysninger bruges til at levere personlige annoncer og forbedre annonceydelsen. Vi har ikke adgang til personlige oplysninger og deler dem ikke.
+
+### Lokalitetsdata
+Driftwood Alarm Clock kan valgfrit få adgang til din enheds omtrentlige placering for at levere lokale vejroplysninger.
+
+Hvis du giver tilladelse, kan appen gemme din valgte by og tilhørende placeringskoordinater lokalt på din enhed for at forbedre din oplevelse og vise vejropdateringer.
+
+Adgang til placering er helt valgfri, og brugere kan i stedet manuelt indtaste en by. Vi sælger ikke dine lokalitetsdata.
 
 ### Hvordan dine data bruges
 Data indsamlet af AdMob kan bruges til:  
@@ -275,16 +288,19 @@ Hvis du har spørgsmål eller bekymringer om denne privatlivspolitik, kontakt os
 
 **Datenschutzbestimmungen – Driftwood Alarm Clock**  
 
-**Gültig ab:** 26. März 2026
-
-Ihre Privatsphäre ist uns wichtig. Driftwood Alarm Clock ist so konzipiert, dass **keine persönlichen Informationen gesammelt oder gespeichert werden**.
-
 **Datenerhebung**  
 Obwohl wir keine persönlichen Daten sammeln, verwendet diese App **Google AdMob** zur Anzeige von Werbung. AdMob kann Informationen sammeln wie:  
 - Gerätekennungen (z. B. Werbe-ID)  
 - Nutzungsdaten (z. B. App-Interaktionen, Sitzungsdauer)  
 
 Diese Informationen werden verwendet, um personalisierte Werbung anzuzeigen und die Werbeleistung zu verbessern. Wir haben keinen Zugriff auf persönliche Daten und geben sie nicht weiter.
+
+**Standortdaten**
+Driftwood Alarm Clock kann optional auf den ungefähren Standort Ihres Geräts zugreifen, um lokale Wetterinformationen bereitzustellen.
+
+Wenn Sie Ihre Zustimmung geben, kann die App Ihre ausgewählte Stadt und die zugehörigen Standortkoordinaten lokal auf Ihrem Gerät speichern, um Ihre Nutzererfahrung zu verbessern und Wetteraktualisierungen anzuzeigen.
+
+Der Zugriff auf den Standort ist vollständig optional, und Nutzer können stattdessen auch manuell eine Stadt eingeben. Wir verkaufen Ihre Standortdaten nicht.
 
 **Verwendung Ihrer Daten**  
 Von AdMob gesammelte Daten können verwendet werden für:  
@@ -319,16 +335,19 @@ Bei Fragen oder Bedenken zu dieser Datenschutzrichtlinie kontaktieren Sie uns bi
 
 **Πολιτική Απορρήτου – Driftwood Alarm Clock**  
 
-**Ημερομηνία έναρξης ισχύος:** 26 Μαρτίου 2026
-
-Το απόρρητό σας είναι σημαντικό για εμάς. Το Driftwood Alarm Clock έχει σχεδιαστεί ώστε **να μην συλλέγει ή αποθηκεύει προσωπικές πληροφορίες**.
-
 **Συλλογή Δεδομένων**  
 Παρόλο που δεν συλλέγουμε προσωπικά δεδομένα, η εφαρμογή χρησιμοποιεί το **Google AdMob** για την προβολή διαφημίσεων. Το AdMob ενδέχεται να συλλέγει πληροφορίες όπως:  
 - Αναγνωριστικά συσκευής (π.χ. αναγνωριστικό διαφήμισης)  
 - Δεδομένα χρήσης (π.χ. αλληλεπιδράσεις με την εφαρμογή, διάρκεια συνεδρίας)  
 
 Αυτές οι πληροφορίες χρησιμοποιούνται για την παροχή εξατομικευμένων διαφημίσεων και τη βελτίωση της απόδοσης των διαφημίσεων. Δεν έχουμε πρόσβαση σε προσωπικά στοιχεία ούτε τα κοινοποιούμε.
+
+**Δεδομένα Τοποθεσίας**
+Το Driftwood Alarm Clock μπορεί προαιρετικά να αποκτήσει πρόσβαση στην κατά προσέγγιση τοποθεσία της συσκευής σας, ώστε να παρέχει τοπικές πληροφορίες καιρού.
+
+Εάν δώσετε άδεια, η εφαρμογή μπορεί να αποθηκεύει τοπικά στη συσκευή σας την επιλεγμένη πόλη και τις σχετικές συντεταγμένες τοποθεσίας, για να βελτιώσει την εμπειρία σας και να εμφανίζει ενημερώσεις καιρού.
+
+Η πρόσβαση στην τοποθεσία είναι εντελώς προαιρετική και οι χρήστες μπορούν εναλλακτικά να εισάγουν χειροκίνητα μια πόλη. Δεν πωλούμε τα δεδομένα τοποθεσίας σας.
 
 **Πώς Χρησιμοποιούνται τα Δεδομένα σας**  
 Τα δεδομένα που συλλέγονται από το AdMob ενδέχεται να χρησιμοποιούνται για:  
@@ -363,16 +382,19 @@ Bei Fragen oder Bedenken zu dieser Datenschutzrichtlinie kontaktieren Sie uns bi
 
 **Política de Privacidad – Driftwood Alarm Clock**  
 
-**Fecha de vigencia:** 26 de marzo de 2026
-
-Tu privacidad es importante. Driftwood Alarm Clock está diseñado para **no recopilar ni almacenar información personal**.
-
 **Recopilación de Datos**  
 Aunque no recopilamos tus datos personales, esta aplicación utiliza **Google AdMob** para mostrar anuncios. AdMob puede recopilar información como:  
 - Identificadores de dispositivo (por ejemplo, ID de publicidad)  
 - Datos de uso (por ejemplo, interacciones con la app, duración de la sesión)  
 
 Esta información se utiliza para mostrar anuncios personalizados y mejorar el rendimiento de los anuncios. No tenemos acceso a datos personales ni los compartimos.
+
+**Datos de ubicación**
+Driftwood Alarm Clock puede acceder opcionalmente a la ubicación aproximada de su dispositivo para proporcionar información meteorológica local.
+
+Si otorga permiso, la aplicación puede almacenar localmente en su dispositivo la ciudad seleccionada y las coordenadas de ubicación relacionadas para mejorar su experiencia y mostrar actualizaciones meteorológicas.
+
+El acceso a la ubicación es completamente opcional, y los usuarios pueden introducir manualmente una ciudad en su lugar. No vendemos sus datos de ubicación.
 
 **Uso de tus Datos**  
 Los datos recopilados por AdMob pueden utilizarse para:  
@@ -407,16 +429,19 @@ Si tienes preguntas o inquietudes sobre esta política de privacidad, contáctan
 
 **Tietosuojakäytäntö – Driftwood Alarm Clock**  
 
-**Voimassa oleva päivämäärä:** 26. maaliskuuta 2026
-
-Yksityisyytesi on meille tärkeää. Driftwood Alarm Clock on suunniteltu niin, että se **ei kerää eikä tallenna henkilökohtaisia tietoja**.
-
 ### Tietojen kerääminen
 Vaikka emme kerää henkilökohtaisia tietojasi, tämä sovellus käyttää **Google AdMobia** mainosten näyttämiseen. AdMob voi kerätä tietoja, kuten:  
 - Laitteen tunnisteet (esim. mainos-ID)  
 - Käyttötiedot (esim. sovelluksen käyttö, istunnon kesto)  
 
 Näitä tietoja käytetään personoitujen mainosten näyttämiseen ja mainosten suorituskyvyn parantamiseen. Meillä ei ole pääsyä henkilökohtaisiin tietoihin emmekä jaa niitä.
+
+### Sijaintitiedot
+Driftwood Alarm Clock voi valinnaisesti käyttää laitteesi arvioitua sijaintia paikallisten säätietojen tarjoamiseksi.
+
+Jos annat luvan, sovellus voi tallentaa valitsemasi kaupungin ja siihen liittyvät sijaintikoordinaatit paikallisesti laitteellesi parantaakseen käyttökokemustasi ja näyttääkseen säätiedotuksia.
+
+Sijainnin käyttö on täysin vapaaehtoista, ja käyttäjät voivat vaihtoehtoisesti syöttää kaupungin manuaalisesti. Emme myy sijaintitietojasi.
 
 ### Kuinka tietojasi käytetään
 AdMobin keräämiä tietoja voidaan käyttää:  
@@ -450,16 +475,19 @@ Jos sinulla on kysyttävää tai huolenaiheita tästä tietosuojakäytännöstä
 
 **Politique de Confidentialité – Driftwood Alarm Clock**  
 
-**Date d'entrée en vigueur:** 26 mars 2026
-
-Votre vie privée est importante. Driftwood Alarm Clock est conçu pour **ne collecter ni stocker d’informations personnelles**.
-
 **Collecte de Données**  
 Bien que nous ne collections pas vos données personnelles, cette application utilise **Google AdMob** pour afficher des publicités. AdMob peut collecter des informations telles que:  
 - Identifiants de l’appareil (ex: ID publicitaire)  
 - Données d’utilisation (ex: interactions avec l’app, durée des sessions)  
 
 Ces informations sont utilisées pour fournir des annonces personnalisées et améliorer les performances publicitaires. Nous n’avons pas accès aux détails personnels ni ne les partageons.
+
+**Données de localisation**
+Driftwood Alarm Clock peut accéder de manière optionnelle à la localisation approximative de votre appareil afin de fournir des informations météorologiques locales.
+
+Si vous accordez l’autorisation, l’application peut stocker localement sur votre appareil la ville que vous avez sélectionnée ainsi que les coordonnées de localisation associées, afin d’améliorer votre expérience et d’afficher les mises à jour météo.
+
+L’accès à la localisation est entièrement optionnel, et les utilisateurs peuvent également saisir une ville manuellement. Nous ne vendons pas vos données de localisation.
 
 **Utilisation de vos données**  
 Les données collectées par AdMob peuvent être utilisées pour:  
@@ -494,16 +522,19 @@ Pour toute question concernant cette politique, contactez-nous:
 
 **गोपनीयता नीति – Driftwood Alarm Clock**  
 
-**प्रभावी तिथि:** 26 मार्च 2026
-
-आपकी गोपनीयता हमारे लिए महत्वपूर्ण है। Driftwood Alarm Clock को इस तरह डिज़ाइन किया गया है कि यह **कोई व्यक्तिगत जानकारी संग्रहित या संग्रहीत नहीं करता**।
-
 **डेटा संग्रहण**  
 हालांकि हम आपके व्यक्तिगत डेटा को संग्रहित नहीं करते हैं, यह ऐप विज्ञापन दिखाने के लिए **Google AdMob** का उपयोग करता है। AdMob निम्नलिखित जानकारी एकत्र कर सकता है:  
 - डिवाइस पहचानकर्ता (जैसे विज्ञापन ID)  
 - उपयोग डेटा (जैसे ऐप इंटरैक्शन, सत्र अवधि)  
 
 यह जानकारी व्यक्तिगत विज्ञापन दिखाने और विज्ञापन प्रदर्शन सुधारने के लिए उपयोग की जाती है। हम व्यक्तिगत जानकारी तक पहुंच नहीं रखते और न ही इसे साझा करते हैं।
+
+**स्थान डेटा**
+Driftwood Alarm Clock स्थानीय मौसम की जानकारी प्रदान करने के लिए वैकल्पिक रूप से आपके डिवाइस के अनुमानित स्थान तक पहुँच सकता है।
+
+यदि आप अनुमति देते हैं, तो ऐप आपके चुने हुए शहर और उससे संबंधित स्थान निर्देशांक को आपके डिवाइस पर स्थानीय रूप से संग्रहीत कर सकता है, ताकि आपके अनुभव को बेहतर बनाया जा सके और मौसम अपडेट प्रदर्शित किए जा सकें।
+
+स्थान तक पहुँच पूरी तरह वैकल्पिक है, और उपयोगकर्ता इसके बजाय मैन्युअल रूप से एक शहर दर्ज कर सकते हैं। हम आपका स्थान डेटा नहीं बेचते हैं।
 
 **आपके डेटा का उपयोग**  
 AdMob द्वारा संग्रहित डेटा का उपयोग किया जा सकता है:  
@@ -538,16 +569,19 @@ Driftwood Alarm Clock 13 वर्ष से कम उम्र के बच�
 
 **Pravila privatnosti – Driftwood Alarm Clock**  
 
-**Datum stupanja na snagu:** 26. ožujka 2026
-
-Vaša privatnost nam je važna. Driftwood Alarm Clock je dizajniran tako da **ne prikuplja niti pohranjuje osobne podatke**.
-
 ### Prikupljanje podataka
 Iako ne prikupljamo vaše osobne podatke, ova aplikacija koristi **Google AdMob** za prikazivanje oglasa. AdMob može prikupljati informacije kao što su:  
 - Identifikatori uređaja (npr. ID oglasa)  
 - Podaci o korištenju (npr. interakcije u aplikaciji, trajanje sesije)  
 
 Ove informacije koriste se za prikaz personaliziranih oglasa i poboljšanje performansi oglasa. Nemamo pristup osobnim podacima niti ih sami dijelimo.
+
+### Podaci o lokaciji
+Driftwood Alarm Clock može po želji pristupiti približnoj lokaciji vašeg uređaja kako bi pružio lokalne vremenske informacije.
+
+Ako date dopuštenje, aplikacija može lokalno na vašem uređaju pohraniti odabrani grad i povezane koordinate lokacije kako bi poboljšala vaše iskustvo i prikazivala vremenska ažuriranja.
+
+Pristup lokaciji u potpunosti je opcionalan, a korisnici umjesto toga mogu ručno unijeti grad. Ne prodajemo vaše podatke o lokaciji.
 
 ### Kako se koriste vaši podaci
 Podaci prikupljeni od strane AdMoba mogu se koristiti za:  
@@ -581,16 +615,19 @@ Ako imate pitanja ili zabrinutosti u vezi ove politike privatnosti, kontaktirajt
 
 **Adatvédelmi irányelvek – Driftwood Alarm Clock**  
 
-**Hatálybalépés dátuma:** 2026. március 26.
-
-Az Ön magánélete fontos számunkra. A Driftwood Alarm Clock úgy lett tervezve, hogy **ne gyűjtsön vagy tároljon személyes adatokat**.
-
 ### Adatgyűjtés
 Bár nem gyűjtjük az Ön személyes adatait, ez az alkalmazás **Google AdMob** szolgáltatást használ hirdetések megjelenítésére. Az AdMob gyűjthet információkat, például:  
 - Eszközazonosítók (pl. hirdetési azonosító)  
 - Használati adatok (pl. alkalmazáson belüli interakciók, munkamenet időtartama)  
 
 Ezeket az információkat személyre szabott hirdetések biztosítására és a hirdetések teljesítményének javítására használják. Nincs hozzáférésünk személyes adatokhoz, és nem osztjuk meg azokat.
+
+### Helyadatok
+A Driftwood Alarm Clock opcionálisan hozzáférhet az eszközöd hozzávetőleges helyadataihoz, hogy helyi időjárási információkat biztosítson.
+
+Ha engedélyt adsz, az alkalmazás a kiválasztott várost és a hozzá tartozó helymeghatározási koordinátákat helyben, az eszközödön tárolhatja a felhasználói élmény javítása és az időjárási frissítések megjelenítése érdekében.
+
+A helyhozzáférés teljes mértékben opcionális, és a felhasználók helyette manuálisan is megadhatnak egy várost. Nem adjuk el a helyadatokat.
 
 ### Az adatok felhasználása
 Az AdMob által gyűjtött adatokat a következőkre lehet felhasználni:  
@@ -624,16 +661,19 @@ Ha kérdése vagy aggálya van ezzel az adatvédelmi irányelvvel kapcsolatban, 
 
 **Գաղտնիության քաղաքականություն – Driftwood Alarm Clock**  
 
-**Բաշխման ամսաթիվը:** 2026 թվականի մարտի 26
-
-Ձեր գաղտնիությունը մեզ համար կարևոր է։ Driftwood Alarm Clock-ը նախագծված է այնպես, որ **չհավաքի և չպահի անձնական տեղեկություններ**։
-
 ### Տվյալների հավաքագրում  
 Չնայած մենք չենք հավաքագրում ձեր անձնական տվյալները, այս հավելվածը օգտագործում է **Google AdMob** գովազդներ ցուցադրելու համար: AdMob-ը կարող է հավաքել հետևյալ տեղեկությունները՝  
 - Պահոցային սարքերի նույնացուցիչներ (օրինակ՝ գովազդի ID)  
 - Օգտագործման տվյալներ (օրինակ՝ հավելվածի ինտերակցիաներ, նստաշրջանի տևողություն)  
 
 Այս տեղեկությունները օգտագործվում են անհատականացված գովազդներ ցուցադրելու և գովազդի կատարողականությունը բարելավելու համար: Մենք չունենք հասանելիություն անձնական տվյալներին և չենք բաժանում դրանք:
+
+### Տեղադրության տվյալներ
+Driftwood Alarm Clock-ը կարող է ընտրովի կերպով մուտք ունենալ ձեր սարքի մոտավոր տեղադրությանը՝ տեղական եղանակային տեղեկատվություն տրամադրելու համար։
+
+Եթե դուք տրամադրեք թույլտվություն, հավելվածը կարող է տեղում՝ ձեր սարքում, պահել ձեր ընտրած քաղաքը և համապատասխան տեղադրության կոորդինատները՝ բարելավելու ձեր փորձառությունը և ցուցադրելու եղանակային թարմացումներ։
+
+Տեղադրության հասանելիությունը լիովին ընտրովի է, և օգտատերերը կարող են փոխարենը ձեռքով մուտքագրել քաղաք։ Մենք չենք վաճառում ձեր տեղադրության տվյալները։
 
 ### Տվյալների օգտագործում  
 AdMob-ի կողմից հավաքված տվյալները կարող են օգտագործվել՝  
@@ -667,16 +707,19 @@ Driftwood Alarm Clock-ը նախատեսված չէ 13 տարեկանից փոք�
 
 **Gagnaverndarstefna – Driftwood Alarm Clock**  
 
-**Gildistími:** 26. mars 2026
-
-Persónuvernd þín er mikilvæg fyrir okkur. Driftwood Alarm Clock er hannað til að **safna ekki eða geyma persónulegar upplýsingar**.
-
 ### Gagnasöfnun  
 Þó við söfnum ekki persónulegum gögnum þínum notar þessi forrit **Google AdMob** til að birta auglýsingar. AdMob getur safnað upplýsingum eins og:  
 - Auðkenni tækja (t.d. auglýsingar-ID)  
 - Notkunargögn (t.d. samspil í forriti, lengd fundar)  
 
 Þessar upplýsingar eru notaðar til að sýna sérsniðnar auglýsingar og bæta árangur auglýsinga. Við höfum ekki aðgang að persónulegum gögnum og deilum þeim ekki sjálf.
+
+### Staðsetningargögn
+Driftwood Alarm Clock getur valkvætt fengið aðgang að áætlaðri staðsetningu tækisins þíns til að veita staðbundnar veðurupplýsingar.
+
+Ef þú veitir leyfi getur forritið vistað valda borg og tengdar staðsetningarhnit á tækinu þínu til að bæta upplifun þína og sýna veðuruppfærslur.
+
+Aðgangur að staðsetningu er algjörlega valkvæð, og notendur geta í staðinn slegið inn borg handvirkt. Við seljum ekki staðsetningargögn þín.
 
 ### Hvernig gögnin þín eru notuð  
 Gögn sem AdMob safnar má nota til að:  
@@ -708,16 +751,19 @@ Ef þú hefur spurningar eða áhyggjur varðandi þessa gagnaverndarstefnu, haf
 
 **Informativa sulla Privacy – Driftwood Alarm Clock**  
 
-**Data di entrata in vigore:** 26 marzo 2026
-
-La tua privacy è importante. La Driftwood Alarm Clock è progettata per **non raccogliere né memorizzare informazioni personali**.
-
 **Raccolta dei dati**  
 Pur non raccogliendo dati personali, quest’app utilizza **Google AdMob** per mostrare annunci. AdMob può raccogliere informazioni quali:  
 - Identificatori del dispositivo (ad es. ID pubblicitario)  
 - Dati di utilizzo (ad es. interazioni con l’app, durata della sessione)  
 
 Queste informazioni vengono utilizzate per mostrare annunci personalizzati e migliorare le prestazioni pubblicitarie. Non abbiamo accesso a dati personali né li condividiamo.
+
+**Dati di localizzazione**
+Driftwood Alarm Clock può, in modo opzionale, accedere alla posizione approssimativa del tuo dispositivo per fornire informazioni meteo locali.
+
+Se concedi l’autorizzazione, l’app può memorizzare localmente sul tuo dispositivo la città selezionata e le relative coordinate di localizzazione per migliorare la tua esperienza e mostrare aggiornamenti meteo.
+
+L’accesso alla posizione è completamente opzionale e gli utenti possono invece inserire manualmente una città. Non vendiamo i tuoi dati di localizzazione.
 
 **Come vengono utilizzati i dati**  
 I dati raccolti da AdMob possono essere usati per:  
@@ -752,16 +798,19 @@ Per domande o dubbi sulla presente informativa, contattaci:
 
 **プライバシーポリシー – Driftwood Alarm Clock**  
 
-**発効日:** 2026年3月26日
-
-あなたのプライバシーは重要です。Driftwood Alarm Clockは、**個人情報を収集または保存しない**ように設計されています。
-
 **データ収集**  
 当アプリは個人データを収集しませんが、広告表示のために**Google AdMob**を使用しています。AdMobは以下の情報を収集することがあります：  
 - デバイス識別子（例：広告ID）  
 - 使用状況データ（例：アプリ操作、セッション時間）  
 
 この情報は、パーソナライズ広告の提供と広告パフォーマンスの向上に使用されます。当方は個人情報にアクセスせず、共有も行いません。
+
+**位置情報**
+Driftwood Alarm Clockは、地域の天気情報を提供するために、オプションでお使いのデバイスのおおよその位置情報にアクセスする場合があります。
+
+許可をいただいた場合、アプリはユーザーが選択した都市および関連する位置座標をデバイス上にローカル保存し、ユーザー体験の向上や天気情報の表示に使用することがあります。
+
+位置情報へのアクセスは完全に任意であり、ユーザーは代わりに都市を手動で入力することもできます。当アプリは位置情報データを販売することはありません。
 
 **データの利用方法**  
 AdMobにより収集されたデータは以下の目的で使用されることがあります：  
@@ -796,16 +845,19 @@ Driftwood Alarm Clockは13歳未満の子供向けではなく、子供のデー
 
 **개인정보 처리방침 – Driftwood Alarm Clock**  
 
-**발효일:** 2026년 3월 26일
-
-귀하의 개인정보는 중요합니다. Driftwood Alarm Clock는 **개인 정보를 수집하거나 저장하지 않도록** 설계되었습니다.
-
 **데이터 수집**  
 이 앱은 개인 데이터를 수집하지 않지만, 광고 표시를 위해 **Google AdMob**을 사용합니다. AdMob은 다음과 같은 정보를 수집할 수 있습니다:  
 - 기기 식별자 (예: 광고 ID)  
 - 사용 데이터 (예: 앱 상호작용, 세션 시간)  
 
 이 정보는 맞춤 광고 제공 및 광고 성과 향상을 위해 사용됩니다. 우리는 개인 세부 정보에 접근하거나 공유하지 않습니다.
+
+**위치 데이터**
+Driftwood Alarm Clock은 지역 날씨 정보를 제공하기 위해 선택적으로 사용자의 기기에서 대략적인 위치에 접근할 수 있습니다.
+
+사용자가 권한을 허용하는 경우, 앱은 선택한 도시와 관련된 위치 좌표를 기기에 로컬로 저장하여 사용자 경험을 개선하고 날씨 업데이트를 표시할 수 있습니다.
+
+위치 접근은 완전히 선택 사항이며, 사용자는 대신 도시를 직접 입력할 수도 있습니다. 우리는 사용자의 위치 데이터를 판매하지 않습니다.
 
 **데이터 사용 방법**  
 AdMob에서 수집한 데이터는 다음에 사용될 수 있습니다:  
@@ -840,16 +892,19 @@ Driftwood Alarm Clock는 13세 미만 어린이를 대상으로 하지 않으며
 
 **Privatumo politika – Driftwood Alarm Clock**  
 
-**Įsigaliojimo data:** 2026 m. kovo 26 d. 
-
-Jūsų privatumas mums svarbus. Driftwood Alarm Clock yra sukurtas taip, kad **nesirinktų ir nesaugotų jokios asmeninės informacijos**.
-
 ### Duomenų rinkimas  
 Nors mes nesirenkame jūsų asmeninių duomenų, ši programa naudoja **Google AdMob** reklamos rodymui. AdMob gali rinkti tokią informaciją:  
 - Įrenginio identifikatoriai (pvz., reklamos ID)  
 - Naudojimo duomenys (pvz., sąveikos su programėle, sesijos trukmė)  
 
 Ši informacija naudojama personalizuotai reklamai rodyti ir reklamos našumui gerinti. Mes neturime prieigos prie asmeninės informacijos ir jos nesidaliname.
+
+### Vietos duomenys
+„Driftwood Alarm Clock“ gali pasirinktinai pasiekti apytikslę jūsų įrenginio buvimo vietą, kad pateiktų vietinę orų informaciją.
+
+Jei suteiksite leidimą, programa gali lokaliai jūsų įrenginyje saugoti pasirinktą miestą ir su juo susijusias vietos koordinates, siekiant pagerinti jūsų naudojimosi patirtį ir rodyti orų atnaujinimus.
+
+Prieiga prie vietos yra visiškai pasirenkama, o vartotojai vietoje to gali rankiniu būdu įvesti miestą. Mes neparduodame jūsų vietos duomenų.
 
 ### Kaip naudojami jūsų duomenys  
 AdMob surinkti duomenys gali būti naudojami:  
@@ -881,16 +936,19 @@ Jei turite klausimų ar susirūpinimą dėl šios privatumo politikos, susisieki
 
 **Политика за приватност – Driftwood Alarm Clock**  
 
-**Датум на стапување во сила:** 26 март 2026
-
-Вашата приватност е важна за нас. Driftwood Alarm Clock е дизајниран така што **не собира ниту чува никакви лични информации**.
-
 ### Собирање на податоци  
 Иако не ги собираме вашите лични податоци, оваа апликација користи **Google AdMob** за прикажување реклами. AdMob може да собира информации како:  
 - Идентификатори на уреди (на пр., рекламски ID)  
 - Податоци за користење (на пр., интеракции со апликацијата, траење на сесијата)  
 
 Овие информации се користат за прикажување персонализирани реклами и подобрување на перформансите на рекламите. Ние немаме пристап до лични детали и не ги споделуваме.
+
+### Податоци за локација
+Driftwood Alarm Clock може по избор да пристапи до приближната локација на вашиот уред за да обезбеди локални временски информации.
+
+Доколку дадете дозвола, апликацијата може локално на вашиот уред да го зачува избраниот град и поврзаните координати на локацијата за да го подобри вашето искуство и да прикажува временски ажурирања.
+
+Пристапот до локацијата е целосно опционален, а корисниците можат наместо тоа рачно да внесат град. Не ги продаваме вашите податоци за локација.
 
 ### Како се користат вашите податоци  
 Податоците собрани од AdMob може да се користат за:  
@@ -922,16 +980,19 @@ Driftwood Alarm Clock не е наменет за деца под 13 годин�
 
 **Personvernregler – Driftwood Alarm Clock**  
 
-**Ikrafttredelsesdato:** 26. mars 2026
-
-Personvernet ditt er viktig for oss. Driftwood Alarm Clock er laget for å **ikke samle inn eller lagre noen personlig informasjon**.
-
 ### Datainnsamling  
 Selv om vi ikke samler inn dine personopplysninger, bruker denne appen **Google AdMob** for å vise annonser. AdMob kan samle inn informasjon som:  
 - Enhetsidentifikatorer (f.eks. reklame-ID)  
 - Bruksdata (f.eks. app-interaksjoner, øktvarighet)  
 
 Denne informasjonen brukes til å vise personlig tilpassede annonser og forbedre annonseytelsen. Vi har ikke tilgang til personlige detaljer og deler dem ikke selv.
+
+### Posisjonsdata
+Driftwood Alarm Clock kan valgfritt få tilgang til enhetens omtrentlige posisjon for å gi lokal værinformasjon.
+
+Hvis du gir tillatelse, kan appen lagre den valgte byen og tilhørende posisjonskoordinater lokalt på enheten din for å forbedre opplevelsen og vise væroppdateringer.
+
+Tilgang til posisjon er helt valgfri, og brukere kan i stedet angi en by manuelt. Vi selger ikke posisjonsdataene dine.
 
 ### Hvordan dataene dine brukes  
 Data samlet inn av AdMob kan brukes til å:  
@@ -963,16 +1024,19 @@ Hvis du har spørsmål eller bekymringer om denne personvernpolicyen, kontakt os
 
 **Privacybeleid – Driftwood Alarm Clock**  
 
-**Ingangsdatum:** 26 maart 2026
-
-Uw privacy is belangrijk. Driftwood Alarm Clock is ontworpen om **geen persoonlijke gegevens te verzamelen of op te slaan**.
-
 **Gegevensverzameling**  
 Hoewel wij geen persoonlijke gegevens verzamelen, gebruikt deze app **Google AdMob** voor het weergeven van advertenties. AdMob kan informatie verzamelen zoals:  
 - Apparaatidentificatoren (bijv. advertentie-ID)  
 - Gebruikgegevens (bijv. app-interacties, sessieduur)  
 
 Deze informatie wordt gebruikt om gepersonaliseerde advertenties te tonen en de advertentieprestaties te verbeteren. Wij hebben geen toegang tot persoonlijke gegevens en delen deze niet.
+
+**Locatiegegevens**
+Driftwood Alarm Clock kan optioneel toegang krijgen tot de geschatte locatie van je apparaat om lokale weersinformatie te bieden.
+
+Als je toestemming geeft, kan de app de door jou geselecteerde stad en bijbehorende locatiecoördinaten lokaal op je apparaat opslaan om je ervaring te verbeteren en weersupdates weer te geven.
+
+Toegang tot locatie is volledig optioneel, en gebruikers kunnen in plaats daarvan handmatig een stad invoeren. Wij verkopen je locatiegegevens niet.
 
 **Gebruik van uw gegevens**  
 Door AdMob verzamelde gegevens kunnen worden gebruikt om:  
@@ -1007,16 +1071,19 @@ Als u vragen of opmerkingen heeft over dit privacybeleid, neem contact met ons o
 
 **Polityka prywatności – Driftwood Alarm Clock**  
 
-**Data wejścia w życie:** 26 marca 2026
-
-Twoja prywatność jest dla nas ważna. Driftwood Alarm Clock został zaprojektowany tak, aby **nie zbierać ani przechowywać danych osobowych**.
-
 **Zbieranie danych**  
 Chociaż nie zbieramy danych osobowych, aplikacja korzysta z **Google AdMob** do wyświetlania reklam. AdMob może zbierać informacje takie jak:  
 - Identyfikatory urządzeń (np. ID reklamy)  
 - Dane dotyczące użytkowania (np. interakcje z aplikacją, czas sesji)  
 
 Informacje te służą do wyświetlania spersonalizowanych reklam i poprawy skuteczności reklam. Nie mamy dostępu do danych osobowych ani ich nie udostępniamy.
+
+**Dane o lokalizacji**
+Driftwood Alarm Clock może opcjonalnie uzyskiwać dostęp do przybliżonej lokalizacji Twojego urządzenia, aby dostarczać lokalne informacje o pogodzie.
+
+Jeśli udzielisz zgody, aplikacja może lokalnie na Twoim urządzeniu przechowywać wybrane miasto oraz powiązane współrzędne lokalizacji, aby poprawić komfort użytkowania i wyświetlać aktualizacje pogody.
+
+Dostęp do lokalizacji jest całkowicie opcjonalny, a użytkownicy mogą zamiast tego ręcznie wprowadzić miasto. Nie sprzedajemy danych o Twojej lokalizacji.
 
 **Wykorzystanie danych**  
 Dane zbierane przez AdMob mogą być wykorzystywane do:  
@@ -1051,16 +1118,19 @@ W przypadku pytań lub wątpliwości dotyczących polityki prywatności, prosimy
 
 **Política de Privacidade – Driftwood Alarm Clock**  
 
-**Data de Vigência:** 26 de março de 2026
-
-Sua privacidade é importante. O Driftwood Alarm Clock foi projetado para **não coletar ou armazenar informações pessoais**.
-
 **Coleta de Dados**  
 Embora não coletemos seus dados pessoais, este aplicativo usa **Google AdMob** para exibir anúncios. O AdMob pode coletar informações como:  
 - Identificadores do dispositivo (ex: ID de publicidade)  
 - Dados de uso (ex: interações com o app, duração da sessão)  
 
 Essas informações são usadas para fornecer anúncios personalizados e melhorar o desempenho dos anúncios. Não temos acesso a detalhes pessoais nem os compartilhamos.
+
+**Dados de localização**
+O Driftwood Alarm Clock pode aceder opcionalmente à localização aproximada do seu dispositivo para fornecer informações meteorológicas locais.
+
+Se conceder permissão, a aplicação pode armazenar localmente no seu dispositivo a cidade selecionada e as respetivas coordenadas de localização para melhorar a sua experiência e apresentar atualizações meteorológicas.
+
+O acesso à localização é totalmente opcional e os utilizadores podem, em alternativa, introduzir manualmente uma cidade. Não vendemos os seus dados de localização.
 
 **Uso dos Dados**  
 Os dados coletados pelo AdMob podem ser usados para:  
@@ -1095,16 +1165,19 @@ Se você tiver perguntas ou preocupações sobre esta política, entre em contat
 
 **Politica de Confidențialitate – Driftwood Alarm Clock**  
 
-**Data intrării în vigoare:** 26 martie 2026
-
-Confidențialitatea dvs. este importantă. Ceasul deșteptător de Crăciun este proiectat pentru a **nu colecta sau stoca informații personale**.
-
 **Colectarea Datelor**  
 Deși nu colectăm date personale, această aplicație folosește **Google AdMob** pentru afișarea reclamelor. AdMob poate colecta informații precum:  
 - Identificatori ai dispozitivului (de ex. ID de publicitate)  
 - Date de utilizare (de ex. interacțiuni cu aplicația, durata sesiunii)  
 
 Aceste informații sunt folosite pentru a furniza reclame personalizate și a îmbunătăți performanța reclamelor. Nu avem acces la detalii personale și nu le distribuim.
+
+**Date de localizare**
+Driftwood Alarm Clock poate accesa opțional locația aproximativă a dispozitivului dvs. pentru a furniza informații meteo locale.
+
+Dacă acordați permisiunea, aplicația poate stoca local pe dispozitivul dvs. orașul selectat și coordonatele de localizare aferente pentru a vă îmbunătăți experiența și pentru a afișa actualizări meteo.
+
+Accesul la locație este complet opțional, iar utilizatorii pot introduce manual un oraș. Nu vindem datele dvs. de localizare.
 
 **Utilizarea Datelor**  
 Datele colectate de AdMob pot fi folosite pentru:  
@@ -1139,16 +1212,19 @@ Pentru întrebări sau nelămuriri privind această politică, contactați-ne:
 
 **Политика конфиденциальности – Driftwood Alarm Clock**  
 
-**Дата вступления в силу:** 26 марта 2026
-
-Ваша конфиденциальность важна. Driftwood Alarm Clock разработан так, чтобы **не собирать и не хранить личную информацию**.
-
 **Сбор данных**  
 Хотя мы не собираем ваши личные данные, это приложение использует **Google AdMob** для показа рекламы. AdMob может собирать информацию, такую как:  
 - Идентификаторы устройства (например, рекламный ID)  
 - Данные использования (например, взаимодействие с приложением, продолжительность сессии)  
 
 Эта информация используется для показа персонализированной рекламы и улучшения эффективности рекламы. Мы не имеем доступа к личной информации и не делимся ею.
+
+**Данные о местоположении**
+Driftwood Alarm Clock может по желанию получать доступ к приблизительному местоположению вашего устройства для предоставления местной информации о погоде.
+
+Если вы дадите разрешение, приложение может локально на вашем устройстве сохранять выбранный город и связанные координаты местоположения, чтобы улучшить ваш опыт и отображать обновления погоды.
+
+Доступ к местоположению полностью необязателен, и пользователи могут вместо этого ввести город вручную. Мы не продаём ваши данные о местоположении.
 
 **Использование данных**  
 Собранные AdMob данные могут использоваться для:  
@@ -1183,16 +1259,19 @@ Pentru întrebări sau nelămuriri privind această politică, contactați-ne:
 
 **Zásady ochrany osobných údajov – Driftwood Alarm Clock**  
 
-**Dátum účinnosti:** 26. marec 2026
-
-Vaše súkromie je pre nás dôležité. Driftwood Alarm Clock je navrhnutý tak, aby **nezhromažďoval ani neukladal žiadne osobné informácie**.
-
 ### Zhromažďovanie údajov  
 Aj keď nezbierame vaše osobné údaje, táto aplikácia používa **Google AdMob** na zobrazovanie reklám. AdMob môže zhromažďovať informácie, ako sú:  
 - Identifikátory zariadení (napr. reklamné ID)  
 - Údaje o používaní (napr. interakcie s aplikáciou, trvanie relácie)  
 
 Tieto informácie sa používajú na poskytovanie personalizovaných reklám a zlepšenie výkonu reklám. Nemáme prístup k osobným údajom ani ich sami nezdieľame.
+
+### Údaje o polohe
+Driftwood Alarm Clock môže voliteľne pristupovať k približnej polohe vášho zariadenia, aby poskytoval miestne informácie o počasí.
+
+Ak udelíte povolenie, aplikácia môže lokálne vo vašom zariadení ukladať vybrané mesto a súvisiace súradnice polohy, aby zlepšila váš zážitok a zobrazovala aktualizácie počasia.
+
+Prístup k polohe je úplne voliteľný a používatelia môžu namiesto toho zadať mesto manuálne. Vaše údaje o polohe nepredávame.
 
 ### Ako sa používajú vaše údaje  
 Údaje zhromaždené spoločnosťou AdMob môžu byť použité na:  
@@ -1224,16 +1303,19 @@ Ak máte otázky alebo obavy týkajúce sa týchto zásad ochrany osobných úda
 
 **Politika zasebnosti – Driftwood Alarm Clock**  
 
-**Datum uveljavitve:** 26. marec 2026
-
-Vaša zasebnost nam je pomembna. Driftwood Alarm Clock je zasnovan tako, da **ne zbira ali shranjuje nobenih osebnih podatkov**.
-
 ### Zbiranje podatkov  
 Čeprav ne zbiramo vaših osebnih podatkov, ta aplikacija uporablja **Google AdMob** za prikazovanje oglasov. AdMob lahko zbira informacije, kot so:  
 - Identifikatorji naprav (npr. ID za oglaševanje)  
 - Podatki o uporabi (npr. interakcije z aplikacijo, trajanje seje)  
 
 Te informacije se uporabljajo za prikazovanje personaliziranih oglasov in izboljšanje učinkovitosti oglasov. Nimamo dostopa do osebnih podatkov in jih sami ne delimo.
+
+### Podatki o lokaciji
+Driftwood Alarm Clock lahko po želji dostopa do približne lokacije vaše naprave, da zagotovi lokalne vremenske informacije.
+
+Če dodelite dovoljenje, lahko aplikacija lokalno na vaši napravi shrani izbrano mesto in povezane koordinate lokacije, da izboljša vašo izkušnjo in prikazuje vremenske posodobitve.
+
+Dostop do lokacije je popolnoma neobvezen, uporabniki pa lahko namesto tega ročno vnesejo mesto. Vaših podatkov o lokaciji ne prodajamo.
 
 ### Kako se vaši podatki uporabljajo  
 Podatki, ki jih zbira AdMob, se lahko uporabijo za:  
@@ -1265,16 +1347,19 @@ To politiko zasebnosti bomo občasno posodobili. Najnovejša različica bo vedno
 
 **Integritetspolicy – Driftwood Alarm Clock**  
 
-**Ikraftträdandedatum:** 26 mars 2026
-
-Din integritet är viktig för oss. Driftwood Alarm Clock är utformat för att **inte samla in eller lagra någon personlig information**.
-
 ### Datainsamling  
 Även om vi inte samlar in dina personuppgifter använder denna app **Google AdMob** för att visa annonser. AdMob kan samla in information som:  
 - Enhetsidentifierare (t.ex. reklam-ID)  
 - Användningsdata (t.ex. appinteraktioner, sessionstid)  
 
 Denna information används för att leverera personliga annonser och förbättra annonsens prestanda. Vi har inte tillgång till personliga uppgifter och delar dem inte själva.
+
+### Platsdata
+Driftwood Alarm Clock kan valfritt få åtkomst till din enhets ungefärliga plats för att tillhandahålla lokal väderinformation.
+
+Om du ger tillstånd kan appen lagra den stad du valt och relaterade platskoordinater lokalt på din enhet för att förbättra din upplevelse och visa väderuppdateringar.
+
+Åtkomst till plats är helt valfri, och användare kan istället ange en stad manuellt. Vi säljer inte dina platsdata.
 
 ### Hur dina uppgifter används  
 Data som samlas in av AdMob kan användas för att:  
@@ -1306,16 +1391,19 @@ Om du har frågor eller funderingar kring denna integritetspolicy, kontakta oss:
 
 **Політика конфіденційності – Driftwood Alarm Clock**  
 
-**Дата набрання чинності:** 26 березня 2026
-
-Ваша конфіденційність важлива. Driftwood Alarm Clock розроблений так, щоб **не збирати і не зберігати особисту інформацію**.
-
 **Збір даних**  
 Хоч ми і не збираємо ваші персональні дані, цей додаток використовує **Google AdMob** для показу реклами. AdMob може збирати таку інформацію:  
 - Ідентифікатори пристрою (наприклад, рекламний ID)  
 - Дані використання (наприклад, взаємодія з додатком, тривалість сесії)  
 
 Ця інформація використовується для показу персоналізованої реклами та покращення її ефективності. Ми не маємо доступу до особистих даних і не передаємо їх.
+
+**Дані про місцезнаходження**
+Driftwood Alarm Clock може за бажанням отримувати доступ до приблизного місцезнаходження вашого пристрою для надання локальної погодної інформації.
+
+Якщо ви надасте дозвіл, застосунок може локально на вашому пристрої зберігати вибране місто та пов’язані координати місцезнаходження, щоб покращити ваш досвід і відображати оновлення погоди.
+
+Доступ до місцезнаходження є повністю необов’язковим, і користувачі можуть замість цього вводити місто вручну. Ми не продаємо ваші дані про місцезнаходження.
 
 **Використання даних**  
 Дані, зібрані AdMob, можуть використовуватися для:  
